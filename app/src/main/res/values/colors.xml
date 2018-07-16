@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLoadWallet">#98bc16</color>
+    <color name="colorWithdrawMoney">#788f97</color>
+    <color name="colorReinvest">#909091</color>
+    <color name="colorAnalystic">#6f6573</color>
+</resources>
